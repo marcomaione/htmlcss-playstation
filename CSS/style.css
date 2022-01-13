@@ -1,0 +1,15 @@
+.ms_color_up {
+    background-color: black;
+    min-height: 50px;
+}
+
+.ms_color_under {
+    background-color: cadetblue;
+    min-height: 200px;
+
+}
+
+.ms_jumbo_color {
+    background-color: coral;
+    min-height: 400px;
+}
