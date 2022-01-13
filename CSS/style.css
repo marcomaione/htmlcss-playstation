@@ -5,11 +5,14 @@
 
 .ms_color_under {
     background-color: cadetblue;
-    min-height: 200px;
-
+    min-height: 100px;
 }
 
-.ms_jumbo_color {
-    background-color: coral;
-    min-height: 400px;
+
+.ms_game {
+    border-radius: 20px;
+}
+
+#game {
+    padding: 30px 30px;
 }
