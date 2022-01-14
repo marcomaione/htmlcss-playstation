@@ -12,9 +12,6 @@ body {
     padding-right: 10px;
 }
 
-.ms_color_under {
-    background-color: cadetblue;
-}
 
 .ms_img_jumbo {
     
@@ -24,14 +21,18 @@ body {
 
 .ms_jumbotron_img {
     background-image: url(..//img/jumbo-bg.png);
-    height: 700px;;
+    height: 500px;;
     background-size:cover;
     background-position: center;
 }
 
 .ms_p_text {
-    padding-top: 450px;
+    padding-top: 200px;
     padding-left: 50px;
+}
+
+.ms_pad {
+    padding: 10px 0px;
 }
 
 
@@ -41,4 +42,20 @@ body {
 
 #game {
     padding: 30px 30px;
+}
+
+.ms_center_img {
+    background-image: url(..//img/it-takes-two-hero-banner-desktop.jpg);
+    height: 500px;;
+    background-size:cover;
+    background-position: center;
+}
+
+.ms_p_text_center {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+#black {
+    background-color: rgb(23, 23, 24);
 }
