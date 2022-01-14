@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .ms_color_up {
     background-color: black;
 }
@@ -10,6 +14,24 @@
 
 .ms_color_under {
     background-color: cadetblue;
+}
+
+.ms_img_jumbo {
+    
+    margin: 0px auto;
+    text-align: center;
+}
+
+.ms_jumbotron_img {
+    background-image: url(..//img/jumbo-bg.png);
+    height: 700px;;
+    background-size:cover;
+    background-position: center;
+}
+
+.ms_p_text {
+    padding-top: 450px;
+    padding-left: 50px;
 }
 
 
