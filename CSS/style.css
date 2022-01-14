@@ -1,11 +1,15 @@
 .ms_color_up {
     background-color: black;
-    min-height: 50px;
+}
+
+.ms_img {
+    width: 5rem;
+    padding: 10px 0px;
+    padding-right: 10px;
 }
 
 .ms_color_under {
     background-color: cadetblue;
-    min-height: 100px;
 }
 
 
