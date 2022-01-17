@@ -80,3 +80,12 @@ footer {
     background-color: rgb(26, 26, 182);
     min-height: 400px;
 }
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.ms_list {
+    list-style-type: none;
+}
